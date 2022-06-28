@@ -480,12 +480,12 @@ button.white {
     width: 0px;
     background-color: #e3e6f3;
     box-shadow: 0px 40px 60px rgb(0, 0, 0, 0.1);
-    padding: 80px 0 0 10px;
     transition: 0.3s;
   }
 
   #navbar.active {
-    width: 300px;
+    width: 250px;
+    padding: 80px 0 0 10px;
   }
 
   #navbar li {
